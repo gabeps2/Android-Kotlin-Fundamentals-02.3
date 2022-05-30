@@ -2,6 +2,8 @@ Collor My Views
 ===========================
 ------------
 
+[Android Kotlin Fundamentals: 02.3 ConstraintLayout using the Layout Editor](https://developer.android.com/codelabs/kotlin-android-training-constraint-layout)
+
 ### 1. Introduction
 This codelab is part of the Android Kotlin Fundamentals course. You'll get the most value out of this course if you work through the codelabs in sequence. All the course codelabs are listed on the Android Kotlin Fundamentals codelabs landing page.
 
