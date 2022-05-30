@@ -111,7 +111,7 @@
         app:layout_constraintEnd_toStartOf="@+id/yellow_button"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        android:layout_marginLeft="@dimen/margin_wide"/>
+        android:layout_marginStart="@dimen/margin_wide"/>
 
     <Button
         android:id="@+id/yellow_button"
@@ -136,7 +136,7 @@
         app:layout_constraintBaseline_toBaselineOf="@+id/yellow_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        android:layout_marginRight="@dimen/margin_wide"
+        android:layout_marginEnd="@dimen/margin_wide"
         app:layout_constraintStart_toEndOf="@+id/yellow_button" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
